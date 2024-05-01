@@ -1,0 +1,199 @@
+{
+  "Hats": [
+    {
+      "Name": "Absolute Zero Brim",
+      "Bonuses": {
+        "Global Crit Block": "+75",
+        "Global Resistance": "+7%",
+        "Health": "+258 Max",
+        "Melt Card": "+2",
+        "Stun Resistance": "+5%"
+      },
+      "Equipment Set": {
+        "Whiteblind Attire": [
+          "Whiteblind Tunic",
+          "Snowbank Boots"
+        ]
+      },
+      "IsAuctionable": false,
+      "IsRetired": false,
+      "IsSellable": true,
+      "IsTradeable": true,
+      "LevelRequirement": 70,
+      "ObtainedBy": {
+        "CrownShop": "8995 Crowns",
+        "DroppedBy": [
+          "Elephant Spectral Guardian",
+          "Lyon Lorestriker",
+          "Tim-Tim Snakeeye"
+        ]
+      },
+      "PvpRank": "None",
+      "School": "Ice",
+      "SellingPrice": {
+        "HighestSell": "1518 Gold",
+        "LowestSell": "1518 Gold"
+      },
+      "Type": "Hat"
+    },
+    {
+      "Name": "Advanced Balance Conical",
+      "Bonuses": {
+        "Balance Accuracy": "+2%",
+        "Balance Critical": "+20",
+        "Balance Damage": "+8%",
+        "Balance Resistance": "+4%",
+        "Global Resistance": "+6%",
+        "Health": "+260 Max"
+      },
+      "Equipment Set": {
+        "Advanced Balance Gear": [
+          "Advanced Balance Robes",
+          "Advanced Balance Boots",
+          "Advanced Balance Wand",
+          "Advanced Balance Edge",
+          "Advanced Balance Band",
+          "Advanced Balance Charm",
+          "Advanced Balance Deck",
+          "Hydra"
+        ]
+      },
+      "IsAuctionable": false,
+      "IsRetired": false,
+      "IsSellable": true,
+      "IsTradeable": false,
+      "LevelRequirement": 50,
+      "Note": "<b>Note</b> : This item is granted to Wizards who buy the <a href=/wiki/Item:Level_50_Elixir title=Item:Level 50 Elixir>Level 50 Elixir</a> from the Crown Shop. ",
+      "PvpRank": "None",
+      "School": "Balance",
+      "SellingPrice": {
+        "HighestSell": "1 Gold",
+        "LowestSell": "1 Gold"
+      },
+      "Type": "Hat"
+    },
+    {
+      "Name": "Adventurer's Helm",
+      "Bonuses": {
+        "Myth Resistance": "+2%"
+      },
+      "IsAuctionable": true,
+      "IsRetired": false,
+      "IsSellable": true,
+      "IsTradeable": true,
+      "LevelRequirement": 0,
+      "ObtainedBy": {
+        "DroppedBy": [
+          "Clockwork Golem",
+          "Fairy Queen",
+          "Haunted Minion",
+          "Iron Golem",
+          "Lumbering Troll",
+          "Plagued Soul",
+          "The Great Troll"
+        ],
+        "QuestItem": "Fairies Wear Boots(Retired)"
+      },
+      "PvpRank": "None",
+      "School": "Any",
+      "SellingPrice": {
+        "LowestSell": "2 Gold"
+      },
+      "Type": "Hat"
+    },
+    {
+      "Name": "Alhazred's Karmic Fez (Level 120+)",
+      "Bonuses": {
+        "Balance Armor Piercing": "+3%",
+        "Balance Critical": "+125",
+        "Balance Damage": "+17%",
+        "Global Accuracy": "+4%",
+        "Health": "+520 Max",
+        "Power Pip": "+12%",
+        "Restoring Hands Card": "+1",
+        "Shadow Pip": "+4%"
+      },
+      "IsAuctionable": false,
+      "IsRetired": false,
+      "IsSellable": true,
+      "IsTradeable": true,
+      "LevelRequirement": 120,
+      "ObtainedBy": {
+        "Professor's Hoard Pack": "399 Crowns"
+      },
+      "PvpRank": "None",
+      "School": "Any",
+      "SellingPrice": {
+        "HighestSell": "1936 Gold",
+        "LowestSell": "1936 Gold"
+      },
+      "Type": "Hat"
+    },
+    {
+      "Name": "Alphoi Trooper Helm",
+      "Bonuses": {
+        "Fire Accuracy": "+8%",
+        "Fire Critical": "+144",
+        "Fire Damage": "+30%",
+        "Health": "+704 Max",
+        "Power Pip": "+12%",
+        "Shadow Pip": "+4%"
+      },
+      "IsAuctionable": false,
+      "IsRetired": false,
+      "IsSellable": true,
+      "IsTradeable": true,
+      "LevelRequirement": 130,
+      "ObtainedBy": {
+        "Recipe": "Recipe:Alphoi Trooper Helm"
+      },
+      "PvpRank": "None",
+      "School": "Fire",
+      "Type": "Hat"
+    },
+    {
+      "Name": "Arcane Angler's Souwester (Level 110+)",
+      "Bonuses": {
+        "Disarm Card": "+1",
+        "Energy": "+17 Max",
+        "Fishing Luck": "+2%",
+        "Global Accuracy": "+9%",
+        "Global Armor Piercing": "+8%",
+        "Global Critical": "+80",
+        "Global Damage": "+11%",
+        "Incoming Life Healing": "+9%"
+      },
+      "Equipment Set": {
+        "Mystic Fishing Attire": [
+          "Arcane Angler's Slicker (Level 110+)",
+          "Arcane Angler's Galoshes "
+        ]
+      },
+      "IsAuctionable": false,
+      "IsRetired": false,
+      "IsSellable": true,
+      "IsTradeable": true,
+      "LevelRequirement": 110,
+      "ObtainedBy": {
+        "GiftCard": "Mystic Fishing Bundle Gift Card"
+      },
+      "PvpRank": "None",
+      "School": "Any",
+      "Type": "Hat"
+    },
+    {
+      "Name": "Birthday Hat",
+      "IsAuctionable": false,
+      "IsRetired": false,
+      "IsSellable": false,
+      "IsTradeable": true,
+      "LevelRequirement": 0,
+      "ObtainedBy": {
+        "Promotional": "Available as a free gift from KI in September 2015 as part of Wizard101's 7th Birthday, and also in 2019 for the 11th Birthday"
+      },
+      "PvpRank": "None",
+      "School": "Any",
+      "Type": "Hat"
+    }
+  ]
+}
